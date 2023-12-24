@@ -4,4 +4,4 @@ B&N Bookstore, with many locations across the United States, places orders for a
 
 Question: How many copies of this hardback novel should B&N order from the publisher?
 Answer: 500 copies
-![image](https://github.com/abdussamad7890/B-N-BOOKSTORE-ANALYSIS/assets/96077933/6a71ba66-8936-4ca6-aae5-ff9a0d3bf958)
+
